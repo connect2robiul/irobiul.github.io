@@ -12,15 +12,15 @@ title: Robiul Islam
 
 ## Research Proffile 
 
-- [Google Scholar](https://scholar.google.com/citations?user=gjOAjPUAAAAJ&hl=en&authuser=1)
-- [Semantic Scholar](https://www.semanticscholar.org/author/Robiul-Islam/51314321)
+- [google scholar](https://scholar.google.com/citations?user=gjOAjPUAAAAJ&hl=en&authuser=1)
+- [semantic scholar](https://www.semanticscholar.org/author/Robiul-Islam/51314321)
 - [orchid](orcid.org/0000-0002-3704-8409)
 - [microsoft academic](https://academic.microsoft.com/profile/j09i12g8-5355-4889-8e5g-ehj5i2h080e0/RobiulIslam/institutions?pi=1)
 
 
 ## Social Connectivity 
 
-- [GitHub](https://github.com/connect2robiul)
+- [gitHub](https://github.com/connect2robiul)
 - [twitter](https://twitter.com/connect2robiul)
 - [instagram](https://www.instagram.com/connect2robiul/)
 - [linkedin](https://www.linkedin.com/in/connect2robiul/)
@@ -36,6 +36,6 @@ title: Robiul Islam
 
 ## Photography 
 
--[Photostream] (https://www.flickr.com/photos/connect2robiul/)
--[Unsplash] (https://unsplash.com/@connect2robiul)
-
+- [Photostream] (https://www.flickr.com/photos/connect2robiul/)
+- [Unsplash] (https://unsplash.com/@connect2robiul)
+- [shutterstock](https://www.shutterstock.com/g/conenct2robiul?rid=260163502)
