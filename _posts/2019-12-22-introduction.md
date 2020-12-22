@@ -36,6 +36,6 @@ title: Robiul Islam
 
 ## Photography 
 
-- [Photostream] (https://www.flickr.com/photos/connect2robiul/)
-- [Unsplash] (https://unsplash.com/@connect2robiul)
+- [Photostream](https://www.flickr.com/photos/connect2robiul/)
+- [Unsplash](https://unsplash.com/@connect2robiul)
 - [shutterstock](https://www.shutterstock.com/g/conenct2robiul?rid=260163502)
