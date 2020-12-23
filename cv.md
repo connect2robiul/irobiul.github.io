@@ -1,7 +1,19 @@
 ---
 layout: page
-title: CV
+title: CV of Robiul Islam 
 ---
+
+**ROBIUL ISLAM**, Ph.D Researcher
+
+[Innopolis University](https://innopolis.university/en/)
+
+Universitetskaya St, 1 3,
+
+Innopolis, Republic of Tatarstan, 420500 
+
+Email:[r_islam@live.com](mailto:r_islam@live.com)
+
+Web page :[ connect2robiul.github.io](connect2robiul.github.io)
 
 #### Teaching Experience
 
