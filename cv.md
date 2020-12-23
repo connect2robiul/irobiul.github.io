@@ -48,7 +48,7 @@ Web page :[ connect2robiul.github.io](connect2robiul.github.io)
 #### Teaching Experience
 
 | Course 	| Role 	| Location 	| Time 	|
-|-	|-	|-	|-	|
+|---	|---	|---	|---	|
 | Neuroscience 	| Teaching Assistance 	| Innopolis University 	| Spring 2021 	|
 | Theoretical Computer Science 	| Teaching Assistance 	| Innopolis University 	| Spring 2021 	|
 | Discrete mathematics 	| Co-Teaching Assistance 	| Innopolis University 	| Fall 2020 	|
