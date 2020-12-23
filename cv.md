@@ -8,13 +8,13 @@ title: CV
 |Course|Role|Location|Time|
 | - | - | - | - |
 |Neuroscience|Teaching Assistance|Innopolis University|Spring 2021|
-|Theoretical Computer Science||||
-|Discrete mathematics|Co-Teaching Assistance||Fall 2020|
-||Lecture|Khwaja Yunus Ali University|Fall 2016|
-|Structure Program||||
-|Introduction to computer||||
+|Theoretical Computer Science|Teaching Assistance|Innopolis University|Spring 2021|
+|Discrete mathematics|Co-Teaching Assistance|Innopolis University|Fall 2020|
+|Discrete mathematic|Lecture|Khwaja Yunus Ali University|Fall 2016|
+|Structure Program|Lecture|Khwaja Yunus Ali University|Fall 2016|
+|Introduction to computer|Lecture|Khwaja Yunus Ali University|Fall 2016|
 |Electrical Circuit|Graduate Teaching Assistance|East West University|Spring 2013|
-||Under-graduate Teaching As- sistance||Summer 2013|
+|Electrical Circuit|Under-graduate Teaching As- sistance|East West University|Summer 2013|
 #### Achievement
 
 - Full Scholarship , Innopolis University 2020-24
@@ -25,9 +25,9 @@ title: CV
 
 #### Publications
 
-1. Anna Muratova, **Robiul Islam**, Ekaterina Mitrofanova, Dmitry I. Ignatov Searching for Interpretable Demographic Pat- terns, in: Proceedings of the Fifth Workshop on Experimental Economics and Machine Learning at the National Research University Higher School of Economics co-located with the Seventh International Conference on Applied Research in Eco- nomics (iCare7) Aachen : CEUR Workshop Proceedings, 2019. P. 18-31.
-1. Md RafiqulIslam, Md Abu Raihan Mostafa Kamal, Naznin Sultana, Mohammad Ali Moni, **Robiul Islam** and Anwaar Ulhaq Depression Detection Using K-Nearest Neighbors (KNN) ClassificationTechnique, International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering, 2018 , pages 1-4, 2018
-1. **Robiul Islam**, Hasan Mahmud, Md. Kamrul Hasan,Husne Ara Rubaiyeat Alphabet Recognition in Air Writing Using Depth Information, ACHI 2016 : The Ninth International Conference on Advances in Computer-Human Interactions,page 299-301, April-2016, Venice Italy.ISBN: 978-1-61208-468-8
+1. Anna Muratova, **Robiul Islam**, Ekaterina Mitrofanova, Dmitry I. Ignatov _Searching for Interpretable Demographic Patterns_, in: Proceedings of the Fifth Workshop on Experimental Economics and Machine Learning at the National Research University Higher School of Economics co-located with the Seventh International Conference on Applied Research in Eco- nomics (iCare7) Aachen : CEUR Workshop Proceedings, 2019. P. 18-31.
+1. Md RafiqulIslam, Md Abu Raihan Mostafa Kamal, Naznin Sultana, Mohammad Ali Moni, **Robiul Islam** and Anwaar Ulhaq _Depression Detection Using K-Nearest Neighbors (KNN) ClassificationTechnique_, International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering, 2018 , pages 1-4, 2018
+1. **Robiul Islam**, Hasan Mahmud, Md. Kamrul Hasan,Husne Ara Rubaiyeat _Alphabet Recognition in Air Writing Using Depth Information_, ACHI 2016 : The Ninth International Conference on Advances in Computer-Human Interactions,page 299-301, April-2016, Venice Italy.ISBN: 978-1-61208-468-8
 
 #### Workshop/ Online course
 
