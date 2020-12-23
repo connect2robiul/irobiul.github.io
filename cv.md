@@ -47,16 +47,17 @@ Web page :[ connect2robiul.github.io](connect2robiul.github.io)
 
 #### Teaching Experience
 
-| Course 	| Role 	| Location 	| Time 	|
-|---	|---	|---	|---	|
-| Neuroscience 	| Teaching Assistance 	| Innopolis University 	| Spring 2021 	|
-| Theoretical Computer Science 	| Teaching Assistance 	| Innopolis University 	| Spring 2021 	|
-| Discrete mathematics 	| Co-Teaching Assistance 	| Innopolis University 	| Fall 2020 	|
-| Discrete mathematic 	| Lecture 	| Khwaja Yunus Ali University 	| Fall 2016 	|
-| Structure Program 	| Lecture 	| Khwaja Yunus Ali University 	| Fall 2016 	|
-| Introduction to computer 	| Lecture 	| Khwaja Yunus Ali University 	| Fall 2016 	|
-| Electrical Circuit 	| Graduate Teaching Assistance 	| East West University 	| Spring 2013 	|
-| Electrical Circuit 	| Under-graduate Teaching As- sistance 	| East West University 	| Summer 2013 	| 
+| Course                       	| Role                                 	| Location                    	| Time        	|
+|------------------------------	|--------------------------------------	|-----------------------------	|-------------	|
+| Neuroscience                 	| Teaching Assistance                  	| Innopolis University        	| Spring 2021 	|
+| Theoretical Computer Science 	| Teaching Assistance                  	| Innopolis University        	| Spring 2021 	|
+| Discrete mathematics         	| Co-Teaching Assistance               	| Innopolis University        	| Fall 2020   	|
+| Discrete mathematic          	| Lecture                              	| Khwaja Yunus Ali University 	| Fall 2016   	|
+| Structure Program            	| Lecture                              	| Khwaja Yunus Ali University 	| Fall 2016   	|
+| Introduction to computer     	| Lecture                              	| Khwaja Yunus Ali University 	| Fall 2016   	|
+| Electrical Circuit           	| Graduate Teaching Assistance         	| East West University        	| Spring 2013 	|
+| Electrical Circuit           	| Under-graduate Teaching As- sistance 	| East West University        	| Summer 2013 	| 
+
 #### Achievement
 
 - Full Scholarship , Innopolis University 2020-24
