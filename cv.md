@@ -3,16 +3,11 @@ layout: page
 title: CV of Robiul Islam 
 ---
 
-**ROBIUL ISLAM**, Ph.D Researcher
-
-[Innopolis University](https://innopolis.university/en/)
-
-Universitetskaya St, 1 3,
-
-Innopolis, Republic of Tatarstan, 420500 
-
-Email:[r_islam@live.com](mailto:r_islam@live.com)
-
+**ROBIUL ISLAM**, Ph.D Researcher <br/> 
+[Innopolis University](https://innopolis.university/en/) <br/>
+Universitetskaya St, 1 3, <br/>
+Innopolis, Republic of Tatarstan, 420500  <br/>
+Email:[r_islam@live.com](mailto:r_islam@live.com) <br/> 
 Web page :[ connect2robiul.github.io](connect2robiul.github.io)
 
 
@@ -56,7 +51,7 @@ Web page :[ connect2robiul.github.io](connect2robiul.github.io)
 | Structure Program            	| Lecture                              	| Khwaja Yunus Ali University 	| Fall 2016   	|
 | Introduction to computer     	| Lecture                              	| Khwaja Yunus Ali University 	| Fall 2016   	|
 | Electrical Circuit           	| Graduate Teaching Assistance         	| East West University        	| Spring 2013 	|
-| Electrical Circuit           	| Under-graduate Teaching As- sistance 	| East West University        	| Summer 2013 	| 
+| Electrical Circuit           	| Under-graduate Teaching Assistance 	  | East West University        	| Summer 2013 	| 
 
 #### Achievement
 
