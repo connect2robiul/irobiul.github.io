@@ -16,4 +16,17 @@ Hello Internet,I am Robiul living in Innopils, Russia from Bangladesh. I have a 
   - Ikigai: The Japanese secret to a long and happy life 
   - How to Win Friends and Influence People 
   
+  ## 🗺️ Staying places
+  
+  + Ⓜ️ **Visiting City** 
+    - Hyderabad,  India
+    - Delhi,India
+    - Pokhara, Nepal
+    - Kuala Lumpur, Malaysia
+    - Saint Petersburg, Russia
+  + 🏠 **Living Place**
+    - Dhaka (7y)
+    - Gazipur (1y)
+    - Moscow (2y)
+    - Kazan (.5y+)
   
