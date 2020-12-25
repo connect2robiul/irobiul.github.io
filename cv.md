@@ -75,7 +75,7 @@ Web page :[ connect2robiul.github.io](connect2robiul.github.io)
 - C#/ASP.Net under Hitech Park, 1-Jan-2015 to 14-May-2015 (144 hours), IBCS - Primax Software Bangladesh Ltd.
 - Cloud Computing and Big Data - A Paradigm Shift in ICT ,1 to 5 December 2014, Islamic University of Technol- ogy, Dhaka, Bangladesh
 
-#### Skills
+
 ##### Technical Skills
 * Programming Languages Basic : PYTHON, C/C++, MATLAB
 * Script Language Basic : html, CSS, javascript , jquery , jquery UI, bootstrap Using * Database: MySQL, SQL, sqlite , postgres
