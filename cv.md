@@ -15,30 +15,28 @@ Web page :[ connect2robiul.github.io](connect2robiul.github.io)
 #### Experience
 
 * Innopolis University Innopolis, Russia 
---- Teaching Assistant August-2020 to Present
+  + Teaching Assistant August-2020 to Present
 * Laboratory for Models and Methods of Computational Pragmatics Moscow, Russia 
---- Research Assistant September-2019 to June-2020
+  + Research Assistant September-2019 to June-2020
 * Intelligent Design & Dynamic Ltd Dhaka,Bangladesh 
---- Software Engineer April-2017 to June-2018
+  + Software Engineer April-2017 to June-2018
 * Khwaja Yunus Ali University Sirajganj,Bangladesh
---- Acting Head of Department of Computer Science and Engineering April-2016 to August-2016
---- Lecturer of Department of Computer Science and Engineering Jan-2016 to August-2016
+  + Acting Head of Department of Computer Science and Engineering April-2016 to August-2016
+  + Lecturer of Department of Computer Science and Engineering Jan-2016 to August-2016
 * East West University Dhaka,Bangladesh
---- Graduate Teaching Assistance May-2013 to August-2013
---- Undergraduate Teaching Assistance January-2013 to April-2013
+  + Graduate Teaching Assistance May-2013 to August-2013
+  + Undergraduate Teaching Assistance January-2013 to April-2013
 
 #### Education
 * Innopolis University Innopolis, Russia 
--- Doctor of Philosophy, Neuro-science and Cognitive Technology Lab (continue) 
+  + Doctor of Philosophy, Neuro-science and Cognitive Technology Lab (continue) 
 * National Research University Higher School of Economics Moscow, Russia 
--- Master’s Programme ’System and Software Engineering’ Completed in June 2020
---- CGPA 8.06 on a scale of 10.0
+  + Master’s Programme ’System and Software Engineering’ Completed in June 2020
 * Islamic University of Technology Gazipur, Bangladesh 
--- Master of Science in Computer Science and Engineering Completed in August 2018
---- CGPA 3.13 on a scale of 4.0
+  + Master of Science in Computer Science and Engineering Completed in August 2018
 * East West University Dhaka,Bangladesh
--- Bachelor of Science in Computer Science and Engineering Completed in April-2013
---- CGPA 3.30 on a scale of 4.0
+  + Bachelor of Science in Computer Science and Engineering Completed in April-2013
+
 
 #### Teaching Experience
 
