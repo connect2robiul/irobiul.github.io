@@ -5,4 +5,13 @@ title: About Me
 
 ## 🐛 About Me 
 
-Hello Internet,I am Robiul living in Innopils, Russia from Bangladesh. I have a lot of wish list and I am too lazy to execute or don’t find any opportunity to execute. And most importance I am happily signal man trying to do some productive thing.  If anyone interest to take about anything,  please contract my ![](https://t.me/Connect2robiul)<img src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-24px.svg">.   
+Hello Internet,I am Robiul living in Innopils, Russia from Bangladesh. I have a lot of wish list and I am too lazy to execute or don’t find any opportunity to execute. And most importance I am happily signal man trying to do some productive thing.  If anyone interest to take about anything,  please contract my teligram @connect2robiul . 
+
+## 📚 Book
+- **Reading** 
+-- If I Never Met You by Mhairi McFarlane 
+-- The Art of Thinking Clearly by Rolf Dobelli 
+- NB : I buy this two book to read but as a lazy person I have no idea when I will finish this two books 
+- **Listening**
+-- Ikigai: The Japanese secret to a long and happy life 
+-- How to Win Friends and Influence People
