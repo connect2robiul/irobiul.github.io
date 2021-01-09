@@ -5,7 +5,7 @@ title: About Me
 
 ## 🐛 About Me 
 
-Hello Internet, I am Robiul living in Innopolis, Russia from Bangladesh. I have a lot of wish lists and I am too lazy to execute or don’t find any opportunity to execute. And most importantly, I am a happy signalman :disappointed: trying to do some productive thing. I am more like a gossiping person and to make suitable gossip just message me on Slowly have ID RP87LX.
+Hello Internet, I am Robiul living in Innopolis, Russia from Bangladesh. I have a lot of wish lists and I am too lazy to execute or don’t find any opportunity to execute. And most importantly, I am a happy Single Man :disappointed: trying to do some productive thing. I am more like a gossiping person and to make suitable gossip just message me on Slowly have ID RP87LX.
 
 
 ## 📚 Self publish Book 
