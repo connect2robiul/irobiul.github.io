@@ -5,7 +5,8 @@ title: About Me
 
 ## 🐛 About Me 
 
-Hello Internet,I am Robiul living in Innopils, Russia from Bangladesh. I have a lot of wish list and I am too lazy to execute or don’t find any opportunity to execute. And most importance I am happily signal man trying to do some productive thing.   
+Hello Internet, I am Robiul living in Innopolis, Russia from Bangladesh. I have a lot of wish lists and I am too lazy to execute or don’t find any opportunity to execute. And most importantly, I am a happy signalman :disappointed: trying to do some productive thing. I am more like a gossiping person and to make suitable gossip just message me on Slowly have ID RP87LX.
+
 
 ## 📚 Self publish Book 
 + [Business Idea:Complex Networks Analysis for Productivity Optimization in Organizations](https://www.amazon.com/dp/B08RWHXHMQ/ref=sr_1_1?dchild=1&qid=1609533261&refinements=p_27%3ARobiul+Islam&s=digital-text&sr=1-1&text=Robiul+Islam) 
@@ -30,6 +31,7 @@ Hello Internet,I am Robiul living in Innopils, Russia from Bangladesh. I have a 
     - Pokhara, Nepal
     - Kuala Lumpur, Malaysia
     - Saint Petersburg, Russia
+    - Samara, Russia 
   + 🏠 **Living Place**
     - Dhaka (7y)
     - Gazipur (1y)
