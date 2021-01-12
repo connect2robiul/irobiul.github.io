@@ -8,7 +8,7 @@ title: CV of Robiul Islam
 Universitetskaya St, 1 3, <br/>
 Innopolis, Republic of Tatarstan, 420500  <br/>
 Email:[r_islam@live.com](mailto:r_islam@live.com) <br/> 
-Web page :[ connect2robiul.github.io](connect2robiul.github.io)
+Web page :[connect2robiul.github.io](https://connect2robiul.github.io)
 
 
 
