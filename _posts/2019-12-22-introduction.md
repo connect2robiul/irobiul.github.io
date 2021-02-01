@@ -6,7 +6,7 @@ title: Robiul Islam
 ## Short bio
 
 
-<p style='text-align: justify;'> I have joined Innopolis University (2020), Russia as a Ph.D. student in neuroscience and cognitive technology lab. Previously, I completed my master's degrees in System and Software Engineering at the National Research University Higher School of Economics (HSE), Russia, and 'Computer Science and engineering' from the Islamic University of Technology (IUT), Bangladesh. I was a research assistant at the Laboratory for Models and Methods of Computational Pragmatics at HSE. My research interest includes machine/deep learning, Human/Brain-Computer Interaction, Computer Vision, and Visualization. [view my cv](https://github.com/connect2robiul/CV/blob/master/CV.pdf)
+<p style='text-align: justify;'> I have joined Innopolis University (2020), Russia as a Ph.D. student in neuroscience and cognitive technology lab. Previously, I completed my master's degrees in System and Software Engineering at the National Research University Higher School of Economics (HSE), Russia, and 'Computer Science and engineering' from the Islamic University of Technology (IUT), Bangladesh. I was a research assistant at the Laboratory for Models and Methods of Computational Pragmatics at HSE. My research interest includes machine/deep learning, Human/Brain-Computer Interaction, Computer Vision, and Visualization. [view my cv](https://github.com/connect2robiul/CV/blob/master/CV.pdf) 
 </p>
 
 
