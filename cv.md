@@ -60,7 +60,7 @@ Web page :[connect2robiul.github.io](https://connect2robiul.github.io)
 - ICT Division Fellowship from ICT Division,Government of the People’s Republic of Bangladesh
 
 #### Publications
-1. Mahmud, Hasan, **Robiul Islam**, and Md Kamrul Hasan. _On-air English Capital Alphabet (ECA) recognition using depth information._ The Visual Computer (2021): 1-11. ISSN : 0178-2789, [doi:](https://doi.org/10.1007/s00371-021-02065-x)
+1. Mahmud, Hasan, **Robiul Islam**, and Md Kamrul Hasan. _On-air English Capital Alphabet (ECA) recognition using depth information._ The Visual Computer (2021): 1-11. ISSN : 0178-2789, [doi: s00371-021-02065-x](https://doi.org/10.1007/s00371-021-02065-x) 
 
 1. Anna Muratova, **Robiul Islam**, Ekaterina Mitrofanova, Dmitry I. Ignatov _Searching for Interpretable Demographic Patterns_, in: Proceedings of the Fifth Workshop on Experimental Economics and Machine Learning at the National Research University Higher School of Economics co-located with the Seventh International Conference on Applied Research in Eco- nomics (iCare7) Aachen : CEUR Workshop Proceedings, 2019. P. 18-31.
 1. Md RafiqulIslam, Md Abu Raihan Mostafa Kamal, Naznin Sultana, Mohammad Ali Moni, **Robiul Islam** and Anwaar Ulhaq _Depression Detection Using K-Nearest Neighbors (KNN) ClassificationTechnique_, International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering, 2018 , pages 1-4, 2018
