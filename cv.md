@@ -54,14 +54,15 @@ Web page :[connect2robiul.github.io](https://connect2robiul.github.io)
 #### Achievement
 
 - Full Scholarship , Innopolis University 2020-24
-- Nomination << SILV ER CHILD >> Golden HSE Award 2019
+- Nomination << SILVER CHILD >> Golden HSE Award 2019
 - Finalist of The Ilya Segalovich Award ,Honor date: Apr 2018, Honor Issuer: Yandex
-- State Academic Scholarship , National Research University Higher School of Economics 2018-20 IEEE VOLT program Graduate 2017
+- State Academic Scholarship , National Research University Higher School of Economics 2018-20 
+- IEEE VOLT program Graduate 2017
 - ICT Division Fellowship from ICT Division,Government of the People’s Republic of Bangladesh
 
 #### Publications
 
-1. Muratova Anna, Ekaterina Mitrofanova, and **Robiul Islam**. _Comparison of Machine Learning Methods for Life Trajectory Analysis in Demography_ Intelligent Information and Database Systems: 13th Asian Conference, ACIIDS 2021, Phuket, Thailand, April 7–10, 2021, Proceedings 13. Springer International Publishing, 2021. 
+1.  Anna Muratova, Ekaterina Mitrofanova, and **Robiul Islam**. _Comparison of Machine Learning Methods for Life Trajectory Analysis in Demography_ Intelligent Information and Database Systems: 13th Asian Conference, ACIIDS 2021, Phuket, Thailand, April 7–10, 2021, Proceedings 13. Springer International Publishing, 2021. 
 1. Mahmud, Hasan, **Robiul Islam**, and Md Kamrul Hasan. _On-air English Capital Alphabet (ECA) recognition using depth information._ The Visual Computer (2021): 1-11. ISSN : 0178-2789, [doi: s00371-021-02065-x](https://doi.org/10.1007/s00371-021-02065-x) 
 
 1. Anna Muratova, **Robiul Islam**, Ekaterina Mitrofanova, Dmitry I. Ignatov _Searching for Interpretable Demographic Patterns_, in: Proceedings of the Fifth Workshop on Experimental Economics and Machine Learning at the National Research University Higher School of Economics co-located with the Seventh International Conference on Applied Research in Eco- nomics (iCare7) Aachen : CEUR Workshop Proceedings, 2019. P. 18-31.
