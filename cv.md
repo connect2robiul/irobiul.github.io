@@ -96,7 +96,8 @@ Web page :[connect2robiul.github.io](https://connect2robiul.github.io)
 - The Institution of Engineers, Bangladesh (IEB) Bangladesh, Associate Member July-2016 to Present
 
 #### Voluntary Activities
-- Volunteers at The 9th International Conference on Analysis of Images, Social Networks and Texts 2020
+- Volunteers (Organizing Committee
+) at The 9th International Conference on Analysis of Images, Social Networks and Texts 2020
 - Writer & Editor, Inno Media Club, Innopolis University from 2020 to present
 - Volunteer of Software Engineering Conference Russia 2018
 - ExCom Member, IEEE Bangladesh Section Computer Society Chapter 2018
