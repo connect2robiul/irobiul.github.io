@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Robiul Islam 
----
+--- 
+
+NB: Some website is not redirected automatically. Please use new tab for this. I will solve this issue very soon and thanks you for visiting my site.  
 
 ## Short bio
 
