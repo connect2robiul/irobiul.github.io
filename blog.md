@@ -1,5 +1,13 @@
+
+---
+layout: page
+title: My Blog
+---
+
+
+
 ---
 layout: post
 title: My Blog
 ---
-Hello 
+I just order using Yandex Eda app. So I have some instructions about how to use this app not knowing Russian. So the instruction was that when the robot comes in front of the dormitory. It will open while clicking the link which is come by SMS. So I wear some winter cloth to get ready because is cold outside. I go to the ground floor waiting for the robot. Finally, the robot comes in front of a dormitory and I just click the link. The robot roof is not opening. I do not know how to operate this robot. There is two color button. One is something gray color and another one will green, which has call button on it. So I just press that green button. Suddenly it calls to Yandex call center. So I just call to then why this robot is not working. She does not understand me because of English. I suddenly notice that the robot is going back without delivering my food. Then I come back and call Yandex, which I call earlier does not find any suitable solution. Then I ask help from the dormitory grade to help me take to phone. She actually helps me to restore my order. Then the robot comes, and I got a call from Yandex and still found the same problem that is not open. I just asked him that open this robot for me over the phone. He said to me that the roof is already open. And I notice that is the robot is unlocked. I just open it and get my food. So finally I realize that the first time it was unlocked and I and not opening the robot so it went back. Typically girl behavior may be. 
