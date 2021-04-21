@@ -14,7 +14,7 @@ NB: Some website is not redirected automatically. Please use new tab for this. I
 
 ## Research Profile 
 
-- [google scholar](https://scholar.google.com/citations?user=gjOAjPUAAAAJ&hl=en&authuser=1){:target="_blank"}
+- [google scholar](https://scholar.google.com/citations?user=gjOAjPUAAAAJ&hl=en&authuser=1)
 - [Web of Science ResearcherID](https://publons.com/researcher/3707219/robiul-islam/)
 - [semantic scholar](https://www.semanticscholar.org/author/Robiul-Islam/51314321)
 - [orchid](https://orcid.org/0000-0002-3704-8409)
