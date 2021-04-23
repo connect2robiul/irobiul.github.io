@@ -3,7 +3,7 @@ layout: post
 title: Robiul Islam 
 --- 
 
-NB: Some website is not redirected automatically. Please use new tab for this. I will solve this issue very soon and thanks you for visiting my site.  
+ 
 
 ## Short bio
 
@@ -14,32 +14,32 @@ NB: Some website is not redirected automatically. Please use new tab for this. I
 
 ## Research Profile 
 
-- [google scholar](https://scholar.google.com/citations?user=gjOAjPUAAAAJ&hl=en&authuser=1)
-- [Web of Science ResearcherID](https://publons.com/researcher/3707219/robiul-islam/)
-- [semantic scholar](https://www.semanticscholar.org/author/Robiul-Islam/51314321)
-- [orchid](https://orcid.org/0000-0002-3704-8409)
-- [microsoft academic](https://academic.microsoft.com/profile/j09i12g8-5355-4889-8e5g-ehj5i2h080e0/RobiulIslam/institutions?pi=1)
-- [researchgate](https://www.researchgate.net/profile/Robiul_Islam)
+- [google scholar](https://scholar.google.com/citations?user=gjOAjPUAAAAJ&hl=en&authuser=1){:target="_blank"}
+- [Web of Science ResearcherID](https://publons.com/researcher/3707219/robiul-islam/){:target="_blank"}
+- [semantic scholar](https://www.semanticscholar.org/author/Robiul-Islam/51314321){:target="_blank"}
+- [orchid](https://orcid.org/0000-0002-3704-8409){:target="_blank"}
+- [microsoft academic](https://academic.microsoft.com/profile/j09i12g8-5355-4889-8e5g-ehj5i2h080e0/RobiulIslam/institutions?pi=1){:target="_blank"}
+- [researchgate](https://www.researchgate.net/profile/Robiul_Islam){:target="_blank"}
 
 
 ## Social Connectivity 
 
-- [gitHub](https://github.com/connect2robiul)
-- [twitter](https://twitter.com/connect2robiul)
-- [instagram](https://www.instagram.com/connect2robiul/)
-- [linkedin](https://www.linkedin.com/in/connect2robiul/)
-- [blog / medium](https://medium.com/@connect2robiul)
-- [quora](https://www.quora.com/profile/Robiul-Islam-1)
-- [angel](https://angel.co/connect2robiul)
-- [IEEE](https://ieee-collabratec.ieee.org/app/p/connect2robiul)
+- [gitHub](https://github.com/connect2robiul){:target="_blank"}
+- [twitter](https://twitter.com/connect2robiul){:target="_blank"}
+- [instagram](https://www.instagram.com/connect2robiul/){:target="_blank"}
+- [linkedin](https://www.linkedin.com/in/connect2robiul/){:target="_blank"}
+- [blog / medium](https://medium.com/@connect2robiul){:target="_blank"}
+- [quora](https://www.quora.com/profile/Robiul-Islam-1){:target="_blank"}
+- [angel](https://angel.co/connect2robiul){:target="_blank"}
+- [IEEE](https://ieee-collabratec.ieee.org/app/p/connect2robiul){:target="_blank"}
 
 ## Online footprint 
 
-- [HSE Silver Award Nomination](https://www.hse.ru/gold/cm/silver/2019/robiul)
-- [HSE master's thesis](https://www.hse.ru/en/edu/vkr/366819729)
+- [HSE Silver Award Nomination](https://www.hse.ru/gold/cm/silver/2019/robiul){:target="_blank"}
+- [HSE master's thesis](https://www.hse.ru/en/edu/vkr/366819729){:target="_blank"}
 
 ## Photography 
 
-- [Photostream](https://www.flickr.com/photos/connect2robiul/)
-- [Unsplash](https://unsplash.com/@connect2robiul)
-- [shutterstock](https://www.shutterstock.com/g/conenct2robiul?rid=260163502)
+- [Photostream](https://www.flickr.com/photos/connect2robiul/){:target="_blank"}
+- [Unsplash](https://unsplash.com/@connect2robiul){:target="_blank"}
+- [shutterstock](https://www.shutterstock.com/g/conenct2robiul?rid=260163502){:target="_blank"}
