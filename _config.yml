@@ -14,6 +14,7 @@ description:      'Ph.D. student at <a href="https://innopolis.university/en/" t
 url:              
 baseurl:          /newversion/
 markdown: kramdown 
+highlighter: rouge 
 
 author:
   name:           'Mark Otto'
