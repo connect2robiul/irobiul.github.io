@@ -20,7 +20,7 @@ title: Robiul Islam
 - [orchid](https://orcid.org/0000-0002-3704-8409){:target="_blank"}
 - [microsoft academic](https://academic.microsoft.com/profile/j09i12g8-5355-4889-8e5g-ehj5i2h080e0/RobiulIslam/institutions?pi=1){:target="_blank"}
 - [researchgate](https://www.researchgate.net/profile/Robiul_Islam){:target="_blank"}
-- [dblp](https://dblp.uni-trier.de/pid/289/8477.html){:terget="_blank"} 
+- [dblp](https://dblp.uni-trier.de/pid/289/8477.html){:target="_blank"} 
 
 
 ## Social Connectivity 
