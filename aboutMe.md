@@ -10,7 +10,7 @@ Hello Internet, I am Robiul living in Innopolis, Russia from Bangladesh. I have 
 ## 💙 The 5 love languages profile result (Singles Edition)
 
 + Physical Touch -- 27% 
-+ Words of Affurmation -- 23%
++ Words of Affirmation -- 23%
 + Quality time -- 23%
 + Act of service -- 17%
 + Receiving gifts -- 10% 
