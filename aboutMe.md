@@ -15,6 +15,26 @@ Hello Internet, I am Robiul living in Innopolis, Russia from Bangladesh. I have 
 + Act of service -- 17%
 + Receiving gifts -- 10% 
 
+## 💀 Personality Test 
+
++ The 16 Personalities Team
+
+  - Type	“The Adventurer” (ISFP-A)
+  - Traits	
+    + Introverted	-	52%
+    + Observant	-	54%
+    + Feeling	-	53%
+    + Prospecting	-	63%
+    + Assertive	-	53%
+  - Role:	Explorer
+  -Strategy:	Confident Individualism
+
++ Personality Perfect Team 
+
+  - **ISTP - The Craftsman**
+    + *Introverted Sensing Thinking Perceiving* 
+
+
 
 ## 📚 Self publish Book 
 + [Business Idea:Complex Networks Analysis for Productivity Optimization in Organizations](https://www.amazon.com/dp/B08RWHXHMQ/ref=sr_1_1?dchild=1&qid=1609533261&refinements=p_27%3ARobiul+Islam&s=digital-text&sr=1-1&text=Robiul+Islam) 
