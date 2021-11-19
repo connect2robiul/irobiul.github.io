@@ -21,6 +21,9 @@ title: Robiul Islam
 - [microsoft academic](https://academic.microsoft.com/profile/j09i12g8-5355-4889-8e5g-ehj5i2h080e0/RobiulIslam/institutions?pi=1){:target="_blank"}
 - [researchgate](https://www.researchgate.net/profile/Robiul_Islam){:target="_blank"}
 - [dblp](https://dblp.uni-trier.de/pid/289/8477.html){:target="_blank"} 
+- arXiv submission
+    + [Evolutionary Algorithm for Graph Coloring Problem](http://arxiv.org/abs/2111.09743){:target="_blank"}
+  
 
 
 ## Social Connectivity 
