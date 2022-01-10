@@ -59,5 +59,5 @@ Hello Internet, I am Robiul living in Innopolis, Russia from Bangladesh. I have 
     - Dhaka (7y)
     - Gazipur (1y)
     - Moscow (2y)
-    - Kazan (from August 2020) 
+    - Kazan / Innopolis  (from August 2020) 
   
