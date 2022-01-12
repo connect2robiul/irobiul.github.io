@@ -8,7 +8,7 @@ title: Robiul Islam
 ## Short bio
 
 
-<p style='text-align: justify;'> I have joined Innopolis University (2020), Russia as a Ph.D. student in neuroscience and cognitive technology lab. Previously, I completed my master's degrees in System and Software Engineering at the National Research University Higher School of Economics (HSE), Russia, and 'Computer Science and engineering' from the Islamic University of Technology (IUT), Bangladesh. I was a research assistant at the Laboratory for Models and Methods of Computational Pragmatics at HSE. My research interest includes machine/deep learning, Human/Brain-Computer Interaction, Computer Vision, and Visualization.
+<p style='text-align: justify;'> I have joined Innopolis University (2020), Russia as a Ph.D. student in the neuroscience and cognitive technology lab. Previously, I completed my master's degrees in System and Software Engineering at the National Research University Higher School of Economics (HSE), Russia, and ''Computer Science and engineering'' from the Islamic University of Technology (IUT), Bangladesh. I was a research assistant at the HSE Laboratory for Models and Methods of Computational Pragmatics. My research interest includes machine/deep learning, Human/Brain-Computer Interaction, Computer Vision, and Visualization. 
 </p>
 
 
@@ -41,6 +41,7 @@ title: Robiul Islam
 
 - [HSE Silver Award Nomination](https://www.hse.ru/gold/cm/silver/2019/robiul){:target="_blank"}
 - [HSE master's thesis](https://www.hse.ru/en/edu/vkr/366819729){:target="_blank"}
+- [YouTube](https://www.youtube.com/channel/UCuqvECXNbppnYVabTC4muLw){:target="_blank"}
 
 ## Photography 
 
