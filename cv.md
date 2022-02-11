@@ -63,6 +63,8 @@ Web page :[connect2robiul.github.io](https://connect2robiul.github.io)
 
 #### Publications
 
+1. **Robiul Islam**. _Interpretable Models and Patterns for EEG data set_ 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA), p 87-91 , Kaliningrad, Russia . IEEE , 13/9/2021 
+
 1.  Anna Muratova, Ekaterina Mitrofanova, and **Robiul Islam**. _Comparison of Machine Learning Methods for Life Trajectory Analysis in Demography_ Intelligent Information and Database Systems: 13th Asian Conference, ACIIDS 2021, Phuket, Thailand, April 7–10, 2021, Proceedings 13. Springer International Publishing, 2021. 
 1. Mahmud, Hasan, **Robiul Islam**, and Md Kamrul Hasan. _On-air English Capital Alphabet (ECA) recognition using depth information._ The Visual Computer (2021): 1-11. ISSN : 0178-2789, [doi: s00371-021-02065-x](https://doi.org/10.1007/s00371-021-02065-x) 
 
