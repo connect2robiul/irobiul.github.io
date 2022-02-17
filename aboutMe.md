@@ -5,7 +5,7 @@ title: About Me
 
 ## 🐛 About Me 
 
-Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have a lot of wish lists, and I am too lazy to execute or don’t find any opportunity to achieve. And most importantly, I am a happy Single Man because of «Hetero- Mono - Sapio - Demi» and trying to do something productive. I am more like a gossiping person, and to make suitable gossip, just message me on Slowly have ID RP87LX or email me at connect2robiul@pm.me for random discussion.   Also, you can hang out with me fill up this form [click](https://forms.gle/9ooncjacUmJp8DA96).  Also [here](https://tinder.com/@contact2robiul)
+Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have a lot of wish lists, and I am too lazy to execute or don’t find any opportunity to achieve. And most importantly, I am a happy Single Man because of «Hetero- Mono - Sapio - Demi» and trying to do something productive. I am more like a gossiping person, and to make suitable gossip, just message me on Slowly have ID RP87LX or email me at connect2robiul@pm.me for random discussion.   Also, you can hang out with me fill up this form [click](https://forms.gle/9ooncjacUmJp8DA96).  Also [here](https://tinder.com/@contact2robiul){:target="_blank"}
 
 ## 💙 The 5 love languages profile result (Singles Edition)
 
@@ -55,6 +55,7 @@ Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have
     - Samara, Russia 
     - İstanbul, Turkey 
     - Cheboksary, Russia 
+    - Makhachkala , Russia 
   + 🏠 **Living Place**
     - Dhaka (7y)
     - Gazipur (1y)
