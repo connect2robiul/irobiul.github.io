@@ -51,7 +51,10 @@ title: Robiul Islam
 - [shutterstock](https://www.shutterstock.com/g/conenct2robiul?rid=260163502){:target="_blank"}
 
 
+## Special Post
 
+- [Additional Information about me](https://t.me/connect2robiulchannel)
+- [What I learn from watching serial](https://t.me/conenct2serial)
 
 ## Product for sale 
 
