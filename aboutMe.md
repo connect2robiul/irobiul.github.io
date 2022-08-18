@@ -56,6 +56,7 @@ Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have
     - İstanbul, Turkey 
     - Cheboksary, Russia 
     - Makhachkala , Russia 
+    - Yekaterinburg , Russia 
   + 🏠 **Living Place**
     - Dhaka (7y)
     - Gazipur (1y)
