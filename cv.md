@@ -63,6 +63,8 @@ Web page :[connect2robiul.github.io](http://robiulislam.me/)
 
 #### Publications
 
+1. **Islam, Robiul**, Andrey V. Andreev, Natalia N. Shusharina, and Alexander E. Hramov. 2022. _Explainable Machine Learning Methods for Classification of Brain States during Visual Perception_ Mathematics 10, no. 15: 2819. [doi.org/10.3390/math10152819](https://doi.org/10.3390/math10152819)
+
 1. **Robiul Islam**. _Interpretable Models and Patterns for EEG data set_ 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA), p 87-91 , Kaliningrad, Russia . IEEE , 13/9/2021 
 
 1.  Anna Muratova, Ekaterina Mitrofanova, and **Robiul Islam**. _Comparison of Machine Learning Methods for Life Trajectory Analysis in Demography_ Intelligent Information and Database Systems: 13th Asian Conference, ACIIDS 2021, Phuket, Thailand, April 7–10, 2021, Proceedings 13. Springer International Publishing, 2021. 
