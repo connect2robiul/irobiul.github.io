@@ -39,6 +39,7 @@ Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have
 ## 📚 Self publish Book 
 + [Business Idea:Complex Networks Analysis for Productivity Optimization in Organizations](https://www.amazon.com/dp/B08RWHXHMQ/ref=sr_1_1?dchild=1&qid=1609533261&refinements=p_27%3ARobiul+Islam&s=digital-text&sr=1-1&text=Robiul+Islam) 
 + [How to Motivate Students while teaching via Cognitive Map](https://www.amazon.com/Motivate-Students-while-teaching-Cognitive-ebook/dp/B08RP93Q6J/ref=sr_1_2?dchild=1&qid=1609533261&refinements=p_27%3ARobiul+Islam&s=digital-text&sr=1-2&text=Robiul+Islam) 
++ [Poem by ChatGPT](https://www.amazon.com/dp/B0BQXYK5NY/)
 
 
 
