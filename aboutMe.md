@@ -49,16 +49,18 @@ Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have
   
   + Ⓜ️ **Visiting City** 
     - Hyderabad,  India
-    - Delhi,India
+    - Delhi,India (1 day)
     - Pokhara, Nepal
     - Kuala Lumpur, Malaysia
     - Saint Petersburg, Russia
     - Samara, Russia 
     - İstanbul, Turkey 
-    - Cheboksary, Russia 
+    - Cheboksary, Russia (1 day)
     - Makhachkala , Russia 
     - Yekaterinburg , Russia 
+    - Kolomna, Russia (1 day)
     - Murmansk , Russia 
+    - Yoshkar-Ola, Russia (1 day)
   + 🏠 **Living Place**
     - Dhaka (7y)
     - Gazipur (1y)
