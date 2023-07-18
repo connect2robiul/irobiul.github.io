@@ -31,7 +31,6 @@ title: Robiul Islam
 - [Telegram](https://t.me/connect2robiulchannel){:target="_blank"}
 - [gitHub](https://github.com/connect2robiul){:target="_blank"}
 - [twitter](https://twitter.com/connect2robiul){:target="_blank"}
-- [instagram](https://www.instagram.com/connect2robiul/){:target="_blank"}
 - [linkedin](https://www.linkedin.com/in/connect2robiul/){:target="_blank"}
 - [blog / medium](https://medium.com/@connect2robiul){:target="_blank"}
 - [quora](https://www.quora.com/profile/Robiul-Islam-1){:target="_blank"}
