@@ -42,7 +42,11 @@ Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have
 + [Poem by ChatGPT](https://www.amazon.com/dp/B0BQXYK5NY/)
 
 
+## About the Published Books :books:
+**Book Title:** Poems by ChatGPT  
+**Publisher:** Worthy Publications  
 
+[![Book Cover](https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Poems_by_ChatGPT_-Robiul_Islam_-f2afd-359990.png)](https://www.rokomari.com/book/359990/poems-by-chatgpt)
 
   
   ## 🗺️ Staying places
