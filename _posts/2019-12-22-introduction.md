@@ -8,7 +8,13 @@ title: Robiul Islam
 ## Short bio
 
 
-<p style='text-align: justify;'> I have joined Innopolis University (2020), Russia as a Ph.D. student in the neuroscience and cognitive technology lab. Previously, I completed my master's degrees in System and Software Engineering at the National Research University Higher School of Economics (HSE), Russia, and ''Computer Science and engineering'' from the Islamic University of Technology (IUT), Bangladesh. I was a research assistant at the HSE Laboratory for Models and Methods of Computational Pragmatics. My research interest includes machine/deep learning, Human/Brain-Computer Interaction, Computer Vision, and Visualization. 
+<p style='text-align: justify;'> ROBIUL ISLAM has successfully completed his aspirantura (research degree) at Innopolis University in Russia. Previously, he earned master's degrees in "System and Software Engineering" from National Research University Higher School of Economics (HSE), Russia, and "Computer Science and Engineering" from the Islamic University of Technology (IUT), Bangladesh. He holds a Bachelor of Science in Computer Science and Engineering from East West University (EWU), Bangladesh.
+
+ Robiul has extensive teaching experience, including roles as a Teaching Assistant for courses such as Logic and Discrete Mathematics, Neuroscience, and Theoretical Computer Science at Innopolis University. He also served as a Co-Teaching Assistant for Discrete Mathematics and conducted lectures on subjects like Structure Programming and Introduction to Computer at Khwaja Yunus Ali University. During his tenure at HSE, Robiul was involved as a Research Assistant at the Laboratory for Models and Methods of Computational Pragmatics.
+
+ During his time at HSE, Robiul served as a research assistant at the Laboratory for Models and Methods of Computational Pragmatics. His research interests span machine learning, deep learning, human-computer interaction, brain-computer interaction, computer vision, and visualization.
+
+ His research interests encompass machine learning, deep learning, human-computer interaction, brain-computer interaction, computer vision, and visualization.
 </p>
 
 
