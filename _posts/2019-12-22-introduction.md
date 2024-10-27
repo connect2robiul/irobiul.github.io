@@ -3,7 +3,7 @@ layout: post
 title: Robiul Islam 
 --- 
 
-## Open for hire 
+## Open to work 
 
 I am actively seeking a post-doctoral position at a prestigious university to advance my research in computational pragmatics and artificial intelligence. I am dedicated to leveraging my academic background and research expertise to contribute to innovative studies, collaborate with esteemed faculty, and mentor graduate students. 
 
