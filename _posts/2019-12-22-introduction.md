@@ -3,6 +3,8 @@ layout: post
 title: Robiul Islam 
 --- 
 
+## Open for hire 
+
 I am actively seeking a post-doctoral position at a prestigious university to advance my research in computational pragmatics and artificial intelligence. I am dedicated to leveraging my academic background and research expertise to contribute to innovative studies, collaborate with esteemed faculty, and mentor graduate students. 
 
 I’m an aspiring academic with lots of experience teaching and researching computer science. I recently finished my Аспирантура equivalent to Ph.D. in Computer Science and Information Processes at Innopolis University in Russia. My research focused on analyzing how the brain processes sensor information using EEG.
@@ -15,7 +17,7 @@ Je suis à la recherche d'un poste de post-doctorant dans une université renomm
 
 Feel free to connect if you know of any opportunities or if you would like to discuss potential collaborations!
 
-hashtag#PostDoc hashtag#Research hashtag#ComputationalPragmatics hashtag#ArtificialIntelligence hashtag#AI hashtag#Collaboration hashtag#Mentorship
+
 
 
 
